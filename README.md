@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Vue & anything i need for creating something i adore.
 - ⚡ Fun fact: NEPHERA = NEPHELE + HERA, copy & original.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+- uh-oh, looks crap for now but i'm getting better & better.
 <!--
 **NEPHERAovo/NEPHERAovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
