@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some small but interesting websites.
+- 🌱 I’m currently learning Vue & anything i need for creating something i adore.
+- ⚡ Fun fact: NEPHERA = NEPHELE + HERA, copy & original.
+
 <!--
 **NEPHERAovo/NEPHERAovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
